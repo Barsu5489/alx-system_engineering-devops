@@ -7,4 +7,5 @@ ls -lna > long format, userId numericallyand hidden starting with '.'
 mkdir/tmp/dir-name > directory
 mv /tmp/betty
 rm /tmp/dirname/filename
-mkdir /tmp/dirname  
+rmdir /tmp/dirname
+cd - change to previous directory  
