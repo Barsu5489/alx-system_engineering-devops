@@ -9,4 +9,5 @@ mv /tmp/betty
 rm /tmp/dirname/filename
 rmdir /tmp/dirname
 cd - change to previous directory 
-ls -la . ../boot > Lists 
+ls -la . ../boot > Lists
+file > Read file tpype 
