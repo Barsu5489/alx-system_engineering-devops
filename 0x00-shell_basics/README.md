@@ -5,4 +5,5 @@ ls -l > display list long form
 ls -la > List hidden files starting with '.'
 ls -lna > long format, userId numericallyand hidden starting with '.'
 mkdir/tmp/dir-name > directory
-mv /tmp/betty  
+mv /tmp/betty
+rm /tmp/dirname/filename  
