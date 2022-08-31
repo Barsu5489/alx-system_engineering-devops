@@ -8,4 +8,5 @@ mkdir/tmp/dir-name > directory
 mv /tmp/betty
 rm /tmp/dirname/filename
 rmdir /tmp/dirname
-cd - change to previous directory  
+cd - change to previous directory 
+ls -la . ../boot > Lists 
