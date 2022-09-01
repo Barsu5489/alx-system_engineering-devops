@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'is -map | sort'>> 103-commas
+echo 'is -map | sort'>> 103-,
